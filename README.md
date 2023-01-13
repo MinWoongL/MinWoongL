@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=minwoongl&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="minwoongl" /></p>
 
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlalsdnd2)](https://solved.ac/dlalsdnd2)
 
