@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MinwoongLee</h1>
+<h1 align="center">Hi 👋, Name : MinWoong Lee</h1>
 <h3 align="center">SSAFY 9 기 진행중!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minwoongl&label=Profile%20views&color=0e75b6&style=flat" alt="minwoongl" /> </p>
@@ -23,8 +23,11 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MinWoongL&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="minwoongl" /></p>
 
+</br></br></br></br></br></br></br></br>
 
-</br>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=minwoongl&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="minwoongl" /></p>
+
+</br></br></br></br></br></br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlalsdnd2)](https://solved.ac/dlalsdnd2)
 
