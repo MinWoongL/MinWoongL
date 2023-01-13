@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, Name : MinWoong Lee</h1>
-<h3 align="center">SSAFY 9 기 진행중!</h3>
+<h3 align="center">SSAFY 9기 진행중!</h3>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1d5cf0&lines=Profile&font=Redressed&size=35&center=true)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
