@@ -31,6 +31,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlalsdnd2)](https://solved.ac/dlalsdnd2)
 
-</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minwoongl&" alt="minwoongl" /></p>
