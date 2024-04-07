@@ -52,11 +52,9 @@
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  <br>
-  
 </div>
+
+<hr>
 
 <div align="center">
 
@@ -69,17 +67,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=minwoongl&" alt="minwoongl" />
 
 </div>
-
-
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MinWoongL&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="minwoongl" /></p>
-
-</br></br></br></br></br></br></br></br></br>
-
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=minwoongl&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="minwoongl" /></p>
-
-</br></br></br></br></br></br></br></br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlalsdnd2)](https://solved.ac/dlalsdnd2)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minwoongl&" alt="minwoongl" /></p>
